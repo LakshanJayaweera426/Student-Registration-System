@@ -1,0 +1,227 @@
+/*   -------------vINDEX.PHP ---------------------------- */
+/*add google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+/*add background image*/
+.body-home{
+	background: url(../img/bg4.jpg);
+	background-size:cover ;
+	background-attachment: fixed;
+}
+
+/*add backgroud color*/
+.black-fill{
+	background: rgba(0,0,0,0.7);
+	min-height: 100vh;
+}
+
+.container{
+
+}
+
+/*navbar to blur*/
+#homenav{
+	background: rgba(255,255,255,0.5) !important;
+	border-radius: 10px;
+
+}
+
+
+/*Welcome to University of vavuniya*/
+.welcome-text{
+	min-height: 80vh;
+}
+
+.welcome-text img{
+	width: 130px;
+}
+
+.welcome-text h4{
+	color: #eee;
+	font-size: 70px;
+	font-family: 'Lobster', cursive;
+	
+}
+
+.welcome-text p{
+	color: black;
+	background: rgba(255,255,255,0.5);
+	padding: 5px;
+	border-radius: 4px;
+	font-size: 13pt;
+}
+
+#about{
+	min-height: 100vh;
+}
+
+#about .card-1{
+	max-width:600px ;
+	width: 90%;
+	background: rgba(255,255,255,0.5);
+	padding: 20px;
+	border-radius: 15px;
+}
+
+.card-text{
+	text-align: justify;
+	width: 100%;
+	
+}
+
+
+
+#about .card-1 h5{
+	font-family: 'Lobster', cursive;
+	font-size: 40px;
+	text-align: center;
+	color: black;
+}
+
+#about img {
+	width: 75px;
+	padding: 0px;
+	margin: 0px;
+
+}
+
+#about h4 {
+	font-family: 'Lobster', cursive;
+	color: black;
+	font-size: 25pt;
+}
+
+#about h6 {
+	color: black;
+}
+
+#about .mission {
+	text-align: justify;
+}
+
+#contact{
+	min-height: 100vh;
+}
+
+#contact form{
+	max-width: 600px;
+	width: 90%;
+	background: rgba(255,255,255,0.5);
+	padding: 20px;
+	border-radius: 15px;
+	color: black;
+}
+
+
+#contact form h3 {
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	color: black;
+	font-size: 30pt;
+
+
+}
+
+#contact img {
+	width: 75px;
+	
+}
+
+#contact label{
+	font-size: 13pt;
+	color: black;
+}
+
+textarea{
+	resize:none;
+}
+
+/* ------------------- */
+
+#infor{
+	min-height: 150vh;
+}
+
+#infor form{
+	max-width: 600px;
+	width: 90%;
+	background: rgba(255,255,255,0.5);
+	padding: 20px;
+	border-radius: 15px;
+	color: black;
+}
+
+#infor form h3 {
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	font-size: 30px;
+
+}
+
+#infor form h5 {
+	text-align: justify;
+	color: blck;
+	font-size: 13pt;
+	margin: 15px 0px 0px 0px;
+
+}
+
+#infor form h6 {
+	color: black;
+	line-height: 22pt;
+	font-size: 13pt;
+
+}
+
+#infor img {
+	width: 75px;
+	
+}
+
+li a:hover{
+	background-color: rgba(49,204, 11, 0.8);
+	color: white;
+	border-radius: 10px 0px 10px 0px;
+
+}
+
+#navbarSupportedContent li a{
+	color: black;
+	font-size: 15pt;
+	margin: 0px 10px 0px 10px;
+}
+
+.btn{
+	background-color: rgb(7, 12, 177);
+	width: 80px;
+}
+
+.fas{
+	font-size: 15pt;
+	color: black;
+	font-family: 'Lobster', cursive;
+	text-align: center;
+
+}
+
+
+
+.fasc a:hover{
+	background-color: rgba(255, 247,50,0.8);
+	border-radius: 10px;
+	width: 580px;
+}
+
+.dropdown-menu{
+	background-color: rgba(255,255,255, 0.9);
+	border-radius: 10px;
+	width: 600px;
+}
+
+.redwarning{
+	color: red;
+	background-color: black;
+	border-radius: 10px;
+	padding: 5px 10px 5px 10px;
+}
