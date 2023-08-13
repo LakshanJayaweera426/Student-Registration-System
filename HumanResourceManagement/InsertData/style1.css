@@ -1,0 +1,106 @@
+/*   -------------vINDEX.PHP ---------------------------- */
+/*add google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+/*add background image*/
+.body-home{
+	background: url(a1.jpg);
+	background-size:cover ;
+	background-attachment: fixed;
+}
+
+/*add backgroud color*/
+.black-fill{
+	background: rgba(0,0,0,0.9);
+	min-height: 100vh;
+
+}
+
+.container{
+	
+}
+
+#form{
+	
+	margin: 0px;
+	
+}
+
+#form form{
+
+	max-width: 100%;
+	width: 90%;
+	background: rgba(255,255,255,0.5);
+	padding: 20px 20px 0px 20px;
+	border-radius: 15px;
+	margin: 0px 0px 0px 0px;
+	color: black;
+
+}
+
+#form form h3 {
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	color: black;
+	
+	font-size: 45px;
+}
+
+#form form h5 {
+	text-align: center;
+	color: rgb(136,0,21);
+	font-size: 22px;
+	
+
+}
+
+.docs{
+	font-size: 20px;
+	color: black;
+	line-height: 24pt;
+	font-family: 'Roboto', sans-serif; 
+
+}
+
+#form img {
+	width: 75px;
+	
+}
+
+
+
+.form-label{
+	font-family: 'Roboto', sans-serif; ;
+	color: black;
+}
+
+
+.thefile{
+	border-radius: 20px;
+	width: 400px;
+}
+
+
+.btn {
+	padding: 10px 0px 10px 0px;
+	margin: 30px 0px 50px 700px;
+	border-style: outset;	
+	width: 200px;
+	font-size: 13pt;
+}
+
+
+.ragginradion{
+	margin: 10px 0px 0px 50px;
+	line-height: 30pt;
+}
+
+
+
+
+/* ----------------------File Upload page---------------------- */
+
+
+	
+}
