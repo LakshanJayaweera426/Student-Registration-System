@@ -1,0 +1,197 @@
+/*   -------------vINDEX.PHP ---------------------------- */
+/*add google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+/*add background image*/
+.body-home{
+	background: url(a2.jpg);
+	background-size:cover ;
+	background-attachment: fixed;
+}
+
+/*add backgroud color*/
+.black-fill{
+	background: rgba(0,0,0,0.7);
+	min-height: 100vh;
+}
+
+.container{
+	
+}
+
+
+
+
+/*Welcome to University of vavuniya*/
+.welcome-text{
+	min-height: 0vh;
+}
+
+.abc{
+	width: 80px;
+	margin: 0px 0px 30px 0px;
+}
+
+.welcome-text h4 {
+	color: rgb(255, 60,60);
+	font-size: 80px;
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	text-shadow: 8px 3px 8px black;
+	margin: 10px 0px 20px 0px;
+
+
+}
+
+.welcome-text h5 {
+	color: rgb(255, 244, 30);
+	font-size: 50px;
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	padding: 0px 0px 100px 0px;
+	background-color: rgba(255, 255,255, 0.3);
+	margin: 0px 10px 0px 10px;
+	padding: 3px 70px 3px 70px;
+	border-radius: 10px;
+	border-style: inset;
+	border-color: rgba(255, 255,255, 0.3);
+	text-shadow: 8px 3px 8px black;
+}
+
+.registration-form{
+	background-color: rgba(255,60,60, 0.7);
+	color: white;
+	padding: 10px 20px 10px 20px;
+	border-radius: 20px 0px 20px 0px;
+	text-shadow: 8px 3px 8px black;
+	border-style: outset;
+	border-color: black;
+	margin: 75px 0px 0px 0px;
+	font-family: 'Roboto', sans-serif; ;
+	font-size: 14pt;
+}
+
+
+
+
+#form{
+	min-height: 200vh;
+	
+	
+}
+
+#form form{
+
+	max-width: 100%;
+	width: 100%;
+	background: rgba(255,255,255,0.5);
+	padding: 20px;
+	border-radius: 15px;
+	margin: 40px 0px 0px 0px;
+}
+
+#form form h3 {
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	color: black;
+	font-size: 28pt;
+
+}
+
+#form img {
+	width: 75px;
+	
+}
+
+
+
+.form-label{
+	font-family: 'Roboto', sans-serif; 
+	color: black;
+	font-size: 15pt;
+	margin: 20px 0px 0px 0px;
+}
+
+.form-radio{
+	font-family: 'Roboto', sans-serif; 
+	color: black;
+	font-size: 14pt;
+	margin: 10px 0px 0px 80px;
+	line-height: 25pt;
+
+
+}
+
+.form-control{
+	
+	font-size: 14pt;
+	font-family: 'Roboto', sans-serif; 
+	color: black;
+	background-color: rgba(221, 221, 221, 1.0);
+	margin: 5px 0px 0px 0px;
+}
+
+
+
+select{
+	
+	border-radius: 5px;
+	width: 200px;
+	height: 40px;
+	color: black;
+	font-family: 'Roboto', sans-serif; 
+	background: rgba(255,255,255,0.5);
+	border-style: outset;
+	margin: 0px 0px 0px 80px;
+}
+
+
+
+.title{
+	color: black;
+	font-family: 'Roboto', sans-serif;
+	line-height: 2;
+	margin: 0px 0px 0px 80px;
+	
+}
+
+.subth{
+	width: 500px;
+}
+.subtd{
+	width: 50px;
+}
+
+
+
+
+textarea{
+	resize:none;
+}
+
+button{
+	border-style: outset;
+}
+
+.btn{
+	margin: 0px 0px 0px 800px;
+	width: 130px;
+	background-color: rgb(12, 1,216);
+	height: 45px;
+	border-style: outset;
+}
+
+.details{
+	color: black;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 18pt;
+	margin: 40px 0px 0px 0px;
+
+}
+
+/* ----------------------File Upload page---------------------- */
+
+
+	
