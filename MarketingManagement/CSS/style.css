@@ -1,0 +1,90 @@
+/*   -------------vINDEX.PHP ---------------------------- */
+/*add google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
+/*add background image*/
+.body-home{
+	background: url(../img/bg4.jpg);
+	background-size:cover ;
+	background-attachment: fixed;
+
+}
+
+/*add backgroud color*/
+.black-fill{
+	background: rgba(0,0,0,0.7);	
+	min-height: 100vh;
+}
+
+.container{
+
+}
+
+
+
+#contact{
+	min-height: 100vh;
+
+}
+
+#contact form{
+	max-width: 450px;
+	height: auto;
+	width: 90%;
+	background: rgba(255,255,255,0.5);
+	padding: 20px;
+	border-radius: 15px;
+	margin: 0px;
+}
+
+#contact form h3 {
+	text-align: center;
+	font-family: 'Lobster', cursive;
+
+}
+
+#contact img {
+	width: 75px;
+	
+}
+textarea{
+	resize:none;
+}
+
+.button-panel{
+	margin: 20px 60px;
+  	padding: 10px;
+  	width: 300px;
+  	text-align: center;
+  	border-radius: 20px;
+  	background-color: rgba(13, 0, 249, 0.8);
+  	color: white;
+  	border-color:rgb(105,118,209);
+
+}
+
+#redalert{
+	padding: 10px;
+	text-align: center;
+	margin: 15px 0px 0px 0px;
+}
+
+
+
+.login{
+	color: black;
+	font-size: 28pt;
+}
+
+#contact label{
+	color: black;
+	font-size: 13pt;
+	font-family: 'Roboto', sans-serif;
+}
+
+.text-center{
+	
+	margin: 100px 0px 0px 0px;
+}
